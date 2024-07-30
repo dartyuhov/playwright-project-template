@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Programming Languages",
+        "config" : {
+            "Java" : 90,
+            "C#": 80,
+            "JavaScript" : 80,
+            "TypeScript": 90,
+            "Python": 70
+        }
+    },
+    {
+        "name": "Test Automation Tools",
+        "config": {
+            "Selenium": 100,
+            "Cucumber": 100,
+            "Playwright": 100,
+            "Cypress": 90,
+            "Selenide": 70,
+            "Appium": 80,
+            "Jest": 100,
+            "WebdriverIO": 90
+        }
+    },
+    {
+        "name": "CI/CD",
+        "config": {
+            "Jenkins": 100,
+            "Github Actions": 70,
+            "Teamcity": 80,
+            "Bitbucket": 70
+        }
+    },
+    {
+        "name" : "Development tools",
+        "config": {
+            "Node.js": 80,
+            "Spring" : 60,
+            "React": 70,
+            "Unity": 70
+        }
+    },
+    {
+        "name" : "Databases",
+        "config": {
+            "MySQL" : 90,
+            "Postgres" : 80,
+            "Mongo": 50,
+            "DB2": 80
+        }
+    }
+]
