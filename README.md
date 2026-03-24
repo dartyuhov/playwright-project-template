@@ -16,7 +16,7 @@ npm test
 #### Run tests without headless:
 Mac & Linux:
 ```bash
-HEADLESS=false npm run test!
+HEADLESS=false npm run test!!!!!!!!!!!!!!!!!
 ```
 
 Windows:
